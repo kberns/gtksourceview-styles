@@ -1,0 +1,93 @@
+<style-scheme name="neutraleye_red" id="neutraleye_red" version="1.0">
+  <author>krizoek</author>
+  <description>Color scheme used in the Kate and Anjuta</description>
+
+  <style name="text"	foreground="#000000" background="#ebe1e1" />
+  <style name="selection"	foreground="#FFFFFF" background="#43ace8" />
+  <style name="current-line"	background="#EEF6FF" />
+  <style name="line-numbers"	foreground="#000000" background="#d6d2d0" />
+  <style name="right-margin"	foreground="#000000" background="#000000" />
+  <style name="bracket-match"	foreground="#ffffff" background="#000000" />
+  <style name="bracket-mismatch"	background="#FF0000" />
+  <style name="draw-spaces"	foreground="#d3d7cf" />
+  <style name="background-pattern"	background="#f3f3f3" />
+  <style name="search-match"	background="#FFFF00" />
+  <style name="bookmark"	background="#E5E5FF" />
+  <style name="Others"	foreground="#800000" />
+  <style name="Others 2"	bold="true" />
+  <style name="Others 3"	foreground="#008000" />
+  <style name="def:comment"	foreground="#808080" italic="true" />
+  <style name="def:shebang"	foreground="#808080" bold="true" />
+  <style name="def:doc-comment"	foreground="#0000FF" />
+  <style name="def:doc-comment-element"	bold="true" />
+  <style name="def:type"	foreground="#0057AE" />
+  <style name="def:constant"	foreground="#0057AE" />
+  <style name="def:decimal"	foreground="#B07E00" />
+  <style name="def:base-n-integer"	foreground="#B07E00" />
+  <style name="def:floating-point"	foreground="#B07E00" />
+  <style name="def:complex"	foreground="#B07E00" />
+  <style name="def:character"	foreground="#FF80E0" />
+  <style name="def:string"	foreground="#DD0000" />
+  <style name="def:special-char"	foreground="#FF00FF" />
+  <style name="def:builtin"	foreground="#0057AE" />
+  <style name="def:identifier"	foreground="#0057AE" />
+  <style name="def:function"	foreground="#0057AE" />
+  <style name="def:statement"	bold="true" />
+  <style name="def:preprocessor"	bold="true" />
+  <style name="def:note"	foreground="#BF0303" background="#F7E7E7" bold="true" />
+  <style name="def:error"	foreground="#FF0000" underline="true" />
+  <style name="def:warning"	foreground="#B07E00" underline="true" />
+  <style name="def:underlined"	underline="true" />
+  <style name="c:preprocessor"	foreground="#008000" />
+  <style name="c:included-file"	foreground="#008000" />
+  <style name="c:common-defines"	foreground="#0095FF" bold="true" />
+  <style name="diff:diff-file"	bold="true" />
+  <style name="diff:added-line"	foreground="#B07E00" />
+  <style name="diff:removed-line"	foreground="#DD0000" />
+  <style name="diff:changed-line"	foreground="#008000" />
+  <style name="diff:special-case"	/>
+  <style name="diff:location"	foreground="#0057AE" />
+  <style name="xml:attribute-name"	foreground="#008000" />
+  <style name="xml:element-name"	bold="true" />
+  <style name="xml:entity"	foreground="#0000FF" />
+  <style name="xml:cdata-delim"	foreground="#008080" bold="true" />
+  <style name="xml:processing-instruction"	bold="true" />
+  <style name="xml:doctype"	foreground="#800000" bold="true" />
+  <style name="docbook-element"	foreground="#004141" bold="true" />
+  <style name="docbook:header-elements"	foreground="#004141" bold="true" />
+  <style name="docbook:formatting-elements"	foreground="#004141" bold="true" />
+  <style name="docbook:gui-elements"	foreground="#004141" bold="true" />
+  <style name="docbook:structural-elements"	foreground="#004141" bold="true" />
+  <style name="js:object"	foreground="#008000" />
+  <style name="js:constructors"	bold="true" />
+  <style name="mooscript:special-vars"	foreground="#008000" />
+  <style name="latex:display-math"	background="#C0FFC0" />
+  <style name="latex:inline-math"	foreground="#006400" />
+  <style name="latex:math-bound"	bold="true" />
+  <style name="latex:common-commands"	foreground="#800000" />
+  <style name="latex:command"	foreground="#7000DF" />
+  <style name="latex:include"	foreground="#800000" />
+  <style name="changelog:date"	foreground="#0057AE" />
+  <style name="changelog:email"	foreground="#008000" />
+  <style name="changelog:file"	foreground="#0057AE" />
+  <style name="changelog:bullet"	foreground="#0057AE" />
+  <style name="changelog:release"	foreground="#0095FF" bold="true" />
+  <style name="perl:pod"	foreground="#808080" />
+  <style name="python:string-conversion"	background="#BEBEBE" />
+  <style name="python:module-handler"	foreground="#FF80E0" />
+  <style name="python:special-variable"	foreground="#0057AE" />
+  <style name="python:builtin-constant"	foreground="#0057AE" />
+  <style name="python:builtin-object"	foreground="#0057AE" />
+  <style name="python:builtin-function"	foreground="#0057AE" />
+  <style name="python:boolean"	foreground="#0057AE" />
+  <style name="scheme:parens"	bold="true" />
+  <style name="scheme:any-function"	bold="true" />
+  <style name="sh:dollar"	foreground="#008000" bold="true" />
+  <style name="makefile:trailing-tab"	background="#FFC0CB" />
+  <style name="t2t:italic"	italic="true" />
+  <style name="t2t:bold"	bold="true" />
+  <style name="t2t:verbatim"	background="#lightgrey" />
+  <style name="t2t:verbatim-block"	/>
+  <style name="t2t:comment"	foreground="#008000" />
+  <style name="t2t:option"	foreground="#008000" />
+</style-scheme>
