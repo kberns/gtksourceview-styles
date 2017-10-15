@@ -20,26 +20,26 @@
   <style name="def:shebang"	foreground="#808080" bold="true" />
   <style name="def:doc-comment"	foreground="#0000FF" />
   <style name="def:doc-comment-element"	bold="true" />
-  <style name="def:type"	foreground="#0057AE" />
+  <style name="def:type"	foreground="#0057ae" bold="true" />
   <style name="def:constant"	foreground="#0057AE" />
   <style name="def:decimal"	foreground="#B07E00" />
   <style name="def:base-n-integer"	foreground="#B07E00" />
   <style name="def:floating-point"	foreground="#B07E00" />
   <style name="def:complex"	foreground="#B07E00" />
-  <style name="def:character"	foreground="#FF80E0" />
+  <style name="def:character"	foreground="#96508a" />
   <style name="def:string"	foreground="#DD0000" />
   <style name="def:special-char"	foreground="#FF00FF" />
   <style name="def:builtin"	foreground="#0057AE" />
   <style name="def:identifier"	foreground="#0057AE" />
   <style name="def:function"	foreground="#0057AE" />
-  <style name="def:statement"	bold="true" />
+  <style name="def:statement"	foreground="#00478a" bold="true" />
   <style name="def:preprocessor"	bold="true" />
   <style name="def:note"	foreground="#BF0303" background="#F7E7E7" bold="true" />
   <style name="def:error"	foreground="#FF0000" underline="true" />
   <style name="def:warning"	foreground="#B07E00" underline="true" />
   <style name="def:underlined"	underline="true" />
   <style name="c:preprocessor"	foreground="#008000" />
-  <style name="c:included-file"	foreground="#008000" />
+  <style name="c:included-file"	foreground="#008000" underline="true" />
   <style name="c:common-defines"	foreground="#0095FF" bold="true" />
   <style name="diff:diff-file"	bold="true" />
   <style name="diff:added-line"	foreground="#B07E00" />
@@ -90,4 +90,14 @@
   <style name="t2t:verbatim-block"	/>
   <style name="t2t:comment"	foreground="#008000" />
   <style name="t2t:option"	foreground="#008000" />
+  <style name="c:char"	foreground="#8f5902" />
+  <style name="c:escaped-character"	/>
+  <style name="c:operator"	foreground="#871f77" />
+  <style name="c:printf"	foreground="#204a87" />
+  <style name="c:string"	foreground="#aa3600" />
+  <style name="c:type"	foreground="#006600" bold="true" />
+  <style name="operator"	/>
+  <style name="number"	/>
+  <style name="keyword"	/>
+  <style name="c:signal-name"	foreground="#edd400" bold="true" />
 </style-scheme>
